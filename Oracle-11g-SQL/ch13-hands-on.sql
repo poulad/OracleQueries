@@ -17,7 +17,7 @@ CREATE FORCE VIEW homework13 AS
 ;
 
 -- 4
-SELECT * FROM homework13;
+DESC homework13;
 
 -- 5
 CREATE VIEW reorderinfo AS
